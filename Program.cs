@@ -3,8 +3,8 @@
   puplec class Program Mine ();
      Voide string ;{
      
-    string.Name("RIMASS");
-    int.Age("20");
+    string.Name("fahad");
+    int.Age("6");
     string.Grade("first");
    
     }
