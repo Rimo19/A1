@@ -1,0 +1,5 @@
+C:\Users\rsaz1\OneDrive\سطح المكتب\المستندات\A1\obj\Debug\net8.0\A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsaz1\OneDrive\سطح المكتب\المستندات\A1\obj\Debug\net8.0\A1.AssemblyInfoInputs.cache
+C:\Users\rsaz1\OneDrive\سطح المكتب\المستندات\A1\obj\Debug\net8.0\A1.AssemblyInfo.cs
+C:\Users\rsaz1\OneDrive\سطح المكتب\المستندات\A1\obj\Debug\net8.0\A1.csproj.CoreCompileInputs.cache
+C:\Users\rsaz1\OneDrive\سطح المكتب\المستندات\A1\obj\Debug\net8.0\A1.sourcelink.json
